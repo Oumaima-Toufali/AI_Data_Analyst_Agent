@@ -1,4 +1,5 @@
-
+cd /chemin/vers/AI-Data-Analyst-Agent && \
+cat > README.md << 'EOF'
 # 🤖 AI Data Analyst Agent
 
 **Projet :** Agent IA pour l'analyse et la visualisation de données.  
