@@ -1,5 +1,4 @@
-cd /chemin/vers/AI-Data-Analyst-Agent && \
-cat > README.md << 'EOF'
+
 # 🤖 AI Data Analyst Agent
 
 **Projet :** Agent IA pour l'analyse et la visualisation de données.  
@@ -108,4 +107,5 @@ Licence MIT – voir le fichier \`LICENSE\`.
 ---
 
 **Auteur :** Oumaima-Toufali
-EOF
+
+
